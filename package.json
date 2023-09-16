@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "-": "^0.0.1",
+    "g": "^2.0.1",
+    "npm": "^10.1.0",
+    "pg": "^8.11.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.33.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
